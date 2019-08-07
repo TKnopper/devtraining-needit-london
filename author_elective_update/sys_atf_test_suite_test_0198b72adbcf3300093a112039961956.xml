@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="DELETE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>Knopper</sys_created_by>
+        <sys_created_on>2019-08-07 06:26:40</sys_created_on>
+        <sys_id>0198b72adbcf3300093a112039961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6dc77be6dbcf3300093a112039961940</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_0198b72adbcf3300093a112039961956</sys_update_name>
+        <sys_updated_by>Knopper</sys_updated_by>
+        <sys_updated_on>2019-08-07 06:26:40</sys_updated_on>
+        <test display_value="NeedIt Set Requested for and Email">6dc77be6dbcf3300093a112039961940</test>
+        <test_suite display_value="When needed Field NeedIt App">95a5bb26dbcf3300093a1120399619de</test_suite>
+    </sys_atf_test_suite_test>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f0820b0adb17db806578f22ebf96198c</instance_id>
+        <instance_name>dev65205</instance_name>
+        <name>sys_atf_test_suite_test_0198b72adbcf3300093a112039961956</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test"><sys_atf_test_suite_test action="INSERT_OR_UPDATE"><abort_on_failure>false</abort_on_failure><order/><sys_class_name>sys_atf_test_suite_test</sys_class_name><sys_created_by>Knopper</sys_created_by><sys_created_on>2019-08-07 06:26:40</sys_created_on><sys_id>0198b72adbcf3300093a112039961956</sys_id><sys_mod_count>0</sys_mod_count><sys_name>6dc77be6dbcf3300093a112039961940</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_test_suite_test_0198b72adbcf3300093a112039961956</sys_update_name><sys_updated_by>Knopper</sys_updated_by><sys_updated_on>2019-08-07 06:26:40</sys_updated_on><test display_value="NeedIt Set Requested for and Email">6dc77be6dbcf3300093a112039961940</test><test_suite display_value="When needed Field NeedIt App">95a5bb26dbcf3300093a1120399619de</test_suite></sys_atf_test_suite_test></record_update>]]></payload>
+        <payload_hash>387807184</payload_hash>
+        <record_name>6dc77be6dbcf3300093a112039961940</record_name>
+        <reverted_from/>
+        <source>f825912adb873300093a11203996193e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Knopper</sys_created_by>
+        <sys_created_on>2019-08-07 06:26:40</sys_created_on>
+        <sys_id>7698f72adbcf3300093a11203996198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c6ac216340000001</sys_recorded_at>
+        <sys_updated_by>Knopper</sys_updated_by>
+        <sys_updated_on>2019-08-07 06:26:40</sys_updated_on>
+        <type>Test Suite Test</type>
+        <update_guid>be98f72a20cf3300c4b5beb114cf4e8e</update_guid>
+        <update_guid_history>be98f72a20cf3300c4b5beb114cf4e8e:387807184</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Knopper</sys_created_by>
+        <sys_created_on>2019-08-07 06:27:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test_suite_test">sys_atf_test_suite_test</sys_db_object>
+        <sys_id>015a0987e2df43f0804f6ebed3f0af10</sys_id>
+        <sys_metadata>0198b72adbcf3300093a112039961956</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6dc77be6dbcf3300093a112039961940</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_test_suite_test_0198b72adbcf3300093a112039961956</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_suite_test_0198b72adbcf3300093a112039961956">7698f72adbcf3300093a11203996198f</sys_update_version>
+        <sys_updated_by>Knopper</sys_updated_by>
+        <sys_updated_on>2019-08-07 06:27:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

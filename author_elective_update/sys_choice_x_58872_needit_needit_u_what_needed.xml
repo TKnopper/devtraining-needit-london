@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_what_needed</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by>Knopper</sys_created_by>
+            <sys_created_on/>
+            <sys_id>7c307ec2db433300093a112039961912</sys_id>
+            <sys_mod_count/>
+            <sys_name>u_what_needed</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+            <sys_updated_by>Knopper</sys_updated_by>
+            <sys_updated_on>2019-08-06 18:32:12</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f0820b0adb17db806578f22ebf96198c</instance_id>
+        <instance_name>dev65205</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_what_needed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_what_needed</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by>Knopper</sys_created_by><sys_created_on/><sys_id>7c307ec2db433300093a112039961912</sys_id><sys_mod_count/><sys_name>u_what_needed</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name><sys_updated_by>Knopper</sys_updated_by><sys_updated_on>2019-08-06 18:32:12</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1116757907</payload_hash>
+        <record_name>x_58872_needit_needit.u_what_needed</record_name>
+        <reverted_from/>
+        <source>d340720edb033300093a112039961995</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Knopper</sys_created_by>
+        <sys_created_on>2019-08-06 18:32:12</sys_created_on>
+        <sys_id>c115512adb873300093a1120399619b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c6833f9a10000001</sys_recorded_at>
+        <sys_updated_by>Knopper</sys_updated_by>
+        <sys_updated_on>2019-08-06 18:32:12</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>4d15512ae287330021fdd5d273e47faf</update_guid>
+        <update_guid_history>4d15512ae287330021fdd5d273e47faf:1116757907,4115512ab6873300d21e5eda9ba9cdac:-915848390,4915512a7a8733002b5e1bcad96510a8:-567701384,4115512a01873300f7c99e003c9377a5:-1423691141,4915512a938733008ff9ed9df2f88aa1:-709049971,4115512a558733003883f7ee4f3e0d9e:-1389990280,c915512a7e873300b0034ec3a63e1881:221069324,c115512a2c8733003505100580ace57e:115963504,c915512ab4873300fb4de19bf52da97a:-495418659,91307ec213433300b19b7aa5f42e68d7:2037410899</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Knopper</sys_created_by>
+        <sys_created_on>2019-08-06 18:32:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>4b15d12adb873300093a1120399619c9</sys_id>
+        <sys_metadata>4b15d12adb873300093a1120399619c9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_what_needed">c115512adb873300093a1120399619b0</sys_update_version>
+        <sys_updated_by>Knopper</sys_updated_by>
+        <sys_updated_on>2019-08-06 18:32:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
